@@ -30,8 +30,10 @@ Hello! My name is Anton. I live in Belarus. I am 28 years old. Now, I am learnin
 <!-- TODO-IST:START -->
 * [ ] complete course on Git on Slurm
 * [ ] create first project on Git
-* [ ] get tested on belarussian company "Itransition"
 * [ ] learn English language to b1
 * [ ] complete an offline course "Teach Me Skills"
+* [ ] learn Django
+* [ ] learn Django Rest Framework
+* [ ] learn Docker
 * [ ] find a job :D
 <!-- TODO-IST:END -->
