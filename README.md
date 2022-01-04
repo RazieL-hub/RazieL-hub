@@ -28,12 +28,9 @@ Hello! My name is Anton. I live in Belarus. I am 28 years old. Now, I am learnin
   
   🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [ ] complete course on Git on Slurm
-* [ ] create first project on Git
 * [ ] learn English language to b1
-* [ ] complete an offline course "Teach Me Skills"
-* [ ] learn Django
-* [ ] learn Django Rest Framework
-* [ ] learn Docker
-* [ ] find a job :D
+* [ ] improve my skill in DRF
+* [ ] learn Docker and Docker-compose
+* [ ] improve my skill in django-channels
+  
 <!-- TODO-IST:END -->
